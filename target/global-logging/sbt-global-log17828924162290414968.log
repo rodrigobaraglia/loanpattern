@@ -1,0 +1,11 @@
+[debug] > Exec(~run, None, None)
+[info] sbt server started at local:sbt-server-0b58c8e3f53a75a89420
+[info] started sbt server
+[debug] > Exec(__runWatch console0, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(__preWatch console0, None, None)
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\rodrigo.d.baraglia\Documents\scalastuff\myrepl\target\scala-2.13\classes ...
+[info] done compiling

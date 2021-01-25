@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\rodrigo.d.baraglia\Documents\scalastuff\myrepl\target\scala-2.13\myrepl_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  C:\Users\rodrigo.d.baraglia\Documents\scalastuff\myrepl\target\scala-2.13\classes\Main$.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\rodrigo.d.baraglia\Documents\scalastuff\myrepl\target\scala-2.13\classes\Main$delayedInit$body.class
+[debug] 	Main.class
+[debug] 	  C:\Users\rodrigo.d.baraglia\Documents\scalastuff\myrepl\target\scala-2.13\classes\Main.class
+[debug] Done packaging.
